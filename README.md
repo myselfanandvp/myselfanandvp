@@ -3,7 +3,11 @@
 </p>
 <h1 align="center">Hi 👋, I'm Anand</h1>
 <h3 align="center">A Passionate Python Developer From India!</h3>
-<img align="right" alt="coding" width="300" height="200" src ="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47hhtcqfb7qopapqyeyibmv5vi85j4hukpac8v5hk8&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+
+  <img align="right"  alt="coding" width="300" height="200" src ="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47hhtcqfb7qopapqyeyibmv5vi85j4hukpac8v5hk8&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandvp92&label=Profile%20views&color=0e75b6&style=flat" alt="anandvp92" /> </p>
 
 <p align="left"> <a href="https://twitter.com/meanandvp" target="blank"><img src="https://img.shields.io/twitter/follow/meanandvp?logo=twitter&style=for-the-badge" alt="meanandvp" /></a> </p>
@@ -22,10 +26,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/meanandvp" target="blank"><img align="center" src="https://imgs.search.brave.com/dyFrWlmB1_pVEp3B8My8PfB-QaoGx6VbUSl77-R1l0o/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9mcmVl/bG9nb3BuZy5jb20v/aW1hZ2VzL2FsbF9p/bWcvMTY1NzA0MzM0/NXR3aXR0ZXItbG9n/by1wbmcucG5n" alt="meanandvp" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anand-v-p-89a73320b" target="blank"><img align="center" src="https://imgs.search.brave.com/3qcgfnJh2GTPAKwQEEi5pBv2fvCDBAbU-F3lLJLYbWQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9wcm9p/bmZsdWVudC5iLWNk/bi5uZXQvd3AtY29u/dGVudC91cGxvYWRz/LzIwMTkvMDUvTG9n/by1MaW5rZWRJbi1v/ZmZpY2llbC5wbmc" alt="anand-v-p-89a73320b" height="40" width="180" /></a>
-<a href="https://stackoverflow.com/users/21292176" target="blank"><img align="center" src="https://imgs.search.brave.com/lSx0eAhbrmZHw_H2XRKRQ6EfM7C2WLqcJJ2jQov1S10/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/bG9nby53aW5lL2Ev/bG9nby9TdGFja19P/dmVyZmxvdy9TdGFj/a19PdmVyZmxvdy1J/Y29uLUxvZ28ud2lu/ZS5zdmc.svg" alt="21292176" height="60" width="50" /></a>
-<a href="https://instagram.com/spike_spiegel_00" target="blank"><img align="center" src="https://imgs.search.brave.com/5sBs2XQDiDBaUOOFdPKrvpAgXsfL0JKCnxumZnaCe3s/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9pbnN0YWdy/YW0taWNvbi01MTJ4/NTEyLWdnaDh4M2Nu/LnBuZw" alt="spike_spiegel_00" height="40" width="40" /></a>
+<a href="https://twitter.com/meanandvp" target="blank"><img align="center" src="https://imgs.search.brave.com/dyFrWlmB1_pVEp3B8My8PfB-QaoGx6VbUSl77-R1l0o/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9mcmVl/bG9nb3BuZy5jb20v/aW1hZ2VzL2FsbF9p/bWcvMTY1NzA0MzM0/NXR3aXR0ZXItbG9n/by1wbmcucG5n" alt="meanandvp" height="15" width="15" /></a>
+<a href="https://linkedin.com/in/anand-v-p-89a73320b" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="anand-v-p-89a73320b" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/21292176" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="21292176" height="20" width="19" /></a>
+<a href="https://instagram.com/spike_spiegel_00" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="spike_spiegel_00" height="20" width="20" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
