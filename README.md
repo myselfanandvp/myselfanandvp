@@ -1,7 +1,9 @@
 
-  <img align="center" src="https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif" width="1010" height="500"/>
+  <img align="center" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" width="1010" height="200" />
 
-<h1 align="center">Hi <img align="center" alt="waving-hand" width="40" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif">, I'm Anand</h1>
+<h1 align="center">Hi<picture>
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." width="40"  src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif">
+</picture>, I'm Anand</h1>
 <h3 align="center">A Passionate Python Developer From India!</h3>
 
  <img align="right"  alt="coding" width="300" height="190" src ="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47hhtcqfb7qopapqyeyibmv5vi85j4hukpac8v5hk8&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
