@@ -3,9 +3,11 @@
 </p>
 <h1 align="center">Hi <img align="center" alt="waving-hand" width="40" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif">, I'm Anand</h1>
 <h3 align="center">A Passionate Python Developer From India!</h3>
-
-  <img align="right"  alt="coding" width="300" height="200" src ="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47hhtcqfb7qopapqyeyibmv5vi85j4hukpac8v5hk8&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
-
+<p>
+ <img align="right"  alt="coding" width="300" height="200" src ="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47hhtcqfb7qopapqyeyibmv5vi85j4hukpac8v5hk8&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+ 
+</p>
+  
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandvp92&label=Profile%20views&color=0e75b6&style=flat" alt="anandvp92" /> </p>
