@@ -26,10 +26,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/meanandvp" target="blank"><img align="center" src="https://imgs.search.brave.com/dyFrWlmB1_pVEp3B8My8PfB-QaoGx6VbUSl77-R1l0o/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9mcmVl/bG9nb3BuZy5jb20v/aW1hZ2VzL2FsbF9p/bWcvMTY1NzA0MzM0/NXR3aXR0ZXItbG9n/by1wbmcucG5n" alt="meanandvp" height="15" width="15" /></a>
-<a href="https://linkedin.com/in/anand-v-p-89a73320b" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="anand-v-p-89a73320b" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/users/21292176" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="21292176" height="20" width="19" /></a>
-<a href="https://instagram.com/spike_spiegel_00" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="spike_spiegel_00" height="20" width="20" /></a>
+<a href="https://twitter.com/meanandvp" target="blank"><img align="center" src="https://github.com/Anandvp92/Anandvp92/blob/main/icons8-twitter.gif" alt="meanandvp" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/anand-v-p-89a73320b" target="blank"><img align="center" src="https://github.com/Anandvp92/Anandvp92/blob/main/icons8-linkedin.gif" alt="anand-v-p-89a73320b" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/21292176" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="21292176" height="30" width="30" /></a>
+<a href="https://instagram.com/spike_spiegel_00" target="blank"><img align="center" src="https://github.com/Anandvp92/Anandvp92/blob/main/icons8-instagram.gif" alt="spike_spiegel_00" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
