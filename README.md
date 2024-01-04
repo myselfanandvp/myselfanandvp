@@ -1,6 +1,6 @@
-<div style="background-color:black; color:white; padding:20px;">
-<img src="https://github.com/Anandvp92/Anandvp92/blob/main/git%20profile.%20(1).gif" alt="logo" width="1000" height="300">
-
+<p align="center">
+  <img src="https://github.com/Anandvp92/Anandvp92/blob/main/git%20profile.%20(1).gif" alt="logo" width="100%" style="max-width: 1000px;">
+</p>
 <h1 align="center">Hi 👋, I'm Anand</h1>
 <h3 align="center">A Passionate Python Developer From India!</h3>
 <img align="right" alt="coding" width="300" height="200" src ="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47hhtcqfb7qopapqyeyibmv5vi85j4hukpac8v5hk8&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
@@ -36,4 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandvp92&show_icons=true&locale=en" alt="anandvp92" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandvp92&" alt="anandvp92" /></p>
-</div>
+
