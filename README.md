@@ -18,8 +18,7 @@
 
 - 💬 Ask me about **python,django,sql**
 
-- 📫 How to reach me **infoanandvp@gmail.com**
-
+- <a href="https://nfoanandvp@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=48&id=tnnUFgHrPmR0&format=gif" alt="meanandvp" height="20" width="20" /></a> How to reach me **infoanandvp@gmail.com**
 - 📄 Know about my experiences [https://anandvp92.github.io/resume/](https://anandvp92.github.io/resume/)
 
 - ⚡ Fun fact **Python dev by day, self-proclaimed stand-up coder by night—my code works best with a side of humor! 😄🐍**
