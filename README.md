@@ -12,15 +12,11 @@
 
 <p align="left"> <a href="https://twitter.com/meanandvp" target="blank"><img src="https://img.shields.io/twitter/follow/meanandvp?logo=twitter&style=for-the-badge" alt="meanandvp" /></a> </p>
 
-- 🌱 I’m currently learning javascript,node.js,vuejs
-
-- 👨‍💻 All of my projects are available at [https://github.com/Anandvp92](https://github.com/Anandvp92)
-
-- 💬 Ask me about **python,django,sql**
-
+- <a href="https://nfoanandvp@gmail.com" target="blank"><img align="center" src="https://cdn-icons-gif.flaticon.com/12743/12743765.gif" alt="meanandvp" height="20" width="20" /></a> I’m currently learning javascript,node.js,vuejs
+- <a href="https://nfoanandvp@gmail.com" target="blank"><img align="center" src="https://cdn-icons-gif.flaticon.com/10164/10164290.gif" alt="meanandvp" height="20" width="20" /></a> All of my projects are available at [https://github.com/Anandvp92](https://github.com/Anandvp92)
+- <a href="https://nfoanandvp@gmail.com" target="blank"><img align="center" src="https://cdn-icons-gif.flaticon.com/12205/12205154.gif" alt="meanandvp" height="20" width="20" /></a> Ask me about **python,django,sql**
 - <a href="https://nfoanandvp@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=48&id=tnnUFgHrPmR0&format=gif" alt="meanandvp" height="20" width="20" /></a> How to reach me **infoanandvp@gmail.com**
-- 📄 Know about my experiences [https://anandvp92.github.io/resume/](https://anandvp92.github.io/resume/)
-
+- <a href="https://nfoanandvp@gmail.com" target="blank"><img align="center" src="https://cdn-icons-gif.flaticon.com/11614/11614843.gif" alt="meanandvp" height="20" width="20" /></a> Know about my experiences [https://anandvp92.github.io/resume/](https://anandvp92.github.io/resume/)  
 - ⚡ Fun fact **Python dev by day, self-proclaimed stand-up coder by night—my code works best with a side of humor! 😄🐍**
 
 <h3 align="left">Connect with me:</h3>
