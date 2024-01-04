@@ -1,5 +1,5 @@
 
-  <img align="center" src="https://www.canva.com/design/DAF45cBLUPE/5dVcU-TZbafXVtBcO-qATQ/edit?utm_content=DAF45cBLUPE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="100%" style="max-width: 1000px;">
+  <img align="center" src="https://png.pngtree.com/thumb_back/fh260/background/20210420/pngtree-blue-and-orange-abstract-background-design-for-banner-business-image_632623.jpg" width="1010" height="300"/>
 
 <h1 align="center">Hi <img align="center" alt="waving-hand" width="40" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif">, I'm Anand</h1>
 <h3 align="center">A Passionate Python Developer From India!</h3>
