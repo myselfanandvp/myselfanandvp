@@ -1,8 +1,8 @@
-![banner](https://drive.google.com/file/d/1MGLB8NyoeguOpReZnT2z0k-EZCUL570s/view?usp=sharing)
-
-<h1 align="center">Hi<picture>
+<h1 align="center">Hi
+  <picture>
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." width="40"  src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif">
-</picture>, I'm Anand</h1>
+</picture> 
+, I'm Anand</h1>
 <h3 align="center">A Passionate Python Developer From India!</h3>
 
  <img align="right"  alt="coding" width="300" height="190" src ="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47hhtcqfb7qopapqyeyibmv5vi85j4hukpac8v5hk8&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
