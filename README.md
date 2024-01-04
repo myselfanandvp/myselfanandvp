@@ -1,6 +1,6 @@
 <h1 align="center">Hi
-  <picture>
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." width="40"  src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif">
+  <picture> 
+  <img alt="" width="40"  src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" />
 </picture> 
 , I'm Anand</h1>
 <h3 align="center">A Passionate Python Developer From India!</h3>
