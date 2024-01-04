@@ -1,4 +1,4 @@
-<img src="https://imgs.search.brave.com/2qRvhaldEmutRm-B6xaDyzacKMSOAuhQZ5lTZ_6wH5Q/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/d2FsbHBhcGVyc2Fm/YXJpLmNvbS8xOS8y/NC9DN0pTUVkuanBn" alt="logo" width="1000" height="8">
+<img src="https://github.com/Anandvp92/Anandvp92/blob/main/git%20profile.%20(1).gif" alt="logo" width="1000" height="300">
 
 <h1 align="center">Hi 👋, I'm Anand</h1>
 <h3 align="center">A Passionate Python Developer From India!</h3>
