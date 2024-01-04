@@ -3,7 +3,7 @@
 
 <h3 align="center">A Passionate Python Developer From India!</h3>
 
- <img align="right"  alt="coding" width="300" height="190" src ="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47hhtcqfb7qopapqyeyibmv5vi85j4hukpac8v5hk8&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+ <img align="right"  alt="coding" width="250" height="200" src ="https://i.pinimg.com/originals/6c/31/90/6c3190bbf9722f5bc2994a035b079616.gif"/>
  
 
   
