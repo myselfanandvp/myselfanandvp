@@ -1,5 +1,5 @@
 
-  <img align="center" src="https://drive.google.com/file/d/1MGLB8NyoeguOpReZnT2z0k-EZCUL570s/view?usp=sharing" width="100%" style="max-width: 1000px;">
+  <img align="center" src="https://www.canva.com/design/DAF45cBLUPE/5dVcU-TZbafXVtBcO-qATQ/edit?utm_content=DAF45cBLUPE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="100%" style="max-width: 1000px;">
 
 <h1 align="center">Hi <img align="center" alt="waving-hand" width="40" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif">, I'm Anand</h1>
 <h3 align="center">A Passionate Python Developer From India!</h3>
