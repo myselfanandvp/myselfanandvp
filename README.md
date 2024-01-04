@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Anandvp92/Anandvp92/blob/main/git%20profile..gif" alt="logo" width="100%" style="max-width: 1000px;">
+  <img src="https://github.com/Anandvp92/Anandvp92/blob/main/git%20profile..gif" alt="https://github.com/Anandvp92" width="100%" style="max-width: 1000px;">
 </p>
 <h1 align="center">Hi 👋, I'm Anand</h1>
 <h3 align="center">A Passionate Python Developer From India!</h3>
