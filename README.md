@@ -1,5 +1,4 @@
-
-  <img align="center" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" width="1010" height="200" />
+![banner](https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif)
 
 <h1 align="center">Hi<picture>
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." width="40"  src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif">
