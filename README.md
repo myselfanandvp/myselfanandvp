@@ -1,5 +1,5 @@
 
-  <img align="center" src="https://png.pngtree.com/thumb_back/fh260/background/20210420/pngtree-blue-and-orange-abstract-background-design-for-banner-business-image_632623.jpg" width="1010" height="300"/>
+  <img align="center" src="https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif" width="1010" height="500"/>
 
 <h1 align="center">Hi <img align="center" alt="waving-hand" width="40" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif">, I'm Anand</h1>
 <h3 align="center">A Passionate Python Developer From India!</h3>
