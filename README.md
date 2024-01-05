@@ -1,4 +1,4 @@
-![logo.](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cf06a29-04a0-4466-9f83-ab6b9658149f/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjZjA2YTI5LTA0YTAtNDQ2Ni05ZjgzLWFiNmI5NjU4MTQ5ZlwvZGVtcGdpNy01MjBmOGQ1Zi02M2Q0LTQ0NTMtODgyMi1kYmMxNDlhZTI3ZjguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TeuN0B5RgPUykYQkZXa8ArTYZ7GlxIpIVJUfQQMWCgM)
+[![banner.](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cf06a29-04a0-4466-9f83-ab6b9658149f/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjZjA2YTI5LTA0YTAtNDQ2Ni05ZjgzLWFiNmI5NjU4MTQ5ZlwvZGVtcGdpNy01MjBmOGQ1Zi02M2Q0LTQ0NTMtODgyMi1kYmMxNDlhZTI3ZjguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TeuN0B5RgPUykYQkZXa8ArTYZ7GlxIpIVJUfQQMWCgM)](https://anandvp92.github.io/resume/)
 <h1 align="center">Hi<img alt="" width="40"  src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" />, I'm Anand</h1>
 
 <h3 align="center">A Passionate Python Developer From India!</h3>
@@ -13,12 +13,12 @@
 
 <p align="left"> <a href="https://twitter.com/meanandvp" target="blank"><img src="https://img.shields.io/twitter/follow/meanandvp?logo=twitter&style=for-the-badge" alt="meanandvp" /></a> </p>
 
-- <a href="" target="blank"><img align="center" src="https://cdn-icons-gif.flaticon.com/12743/12743765.gif" alt="meanandvp" height="20" width="20" /></a> I’m currently learning javascript,node.js,vuejs
-- <a href="https://github.com/Anandvp92" target="blank"><img align="center" src="https://cdn-icons-gif.flaticon.com/10164/10164290.gif" alt="meanandvp" height="20" width="20" /></a> All of my projects are available at [https://github.com/Anandvp92](https://github.com/Anandvp92)
-- <a href="" target="blank"><img align="center" src="https://cdn-icons-gif.flaticon.com/12205/12205154.gif" alt="meanandvp" height="20" width="20" /></a> Ask me about **python,django,sql**
-- <a href="https://nfoanandvp@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=48&id=tnnUFgHrPmR0&format=gif" alt="meanandvp" height="20" width="20" /></a> How to reach me **infoanandvp@gmail.com**
-- <a href="https://anandvp92.github.io/resume/" target="blank"><img align="center" src="https://cdn-icons-gif.flaticon.com/11614/11614843.gif" alt="meanandvp" height="20" width="20" /></a> Know about my experiences [https://anandvp92.github.io/resume/](https://anandvp92.github.io/resume/)  
-- ⚡ Fun fact **Python dev by day, self-proclaimed stand-up coder by night—my code works best with a side of humor! 😄🐍**
+- 💪 I’m currently working on **Python**
+- 💡 I’m currently learning **Java_Script,Node.js,React**
+- 😊 Ask me about **python,django,sql**
+- 📧 How to reach me **infoanandvp@gmail.com**
+- 🙂 Know about my experiences [https://anandvp92.github.io/resume/](https://anandvp92.github.io/resume/)  
+- 😜 Fun fact ** By day, I'm a Python developer crafting code; by night, a stand-up coder—my secret sauce? A dash of humor, making my code both functional and fun! 😄🐍 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
