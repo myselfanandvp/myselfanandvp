@@ -17,7 +17,7 @@
 - 💡 I’m currently learning **Java_Script,Node.js,React**
 - 😊 Ask me about **python,django,sql**
 - 📧 How to reach me **infoanandvp@gmail.com**
-- 🙂 Know about my experiences [https://anandvp92.github.io/resume/](https://anandvp92.github.io/resume/)  
+- 🙂 Know about my experiences [https://anandvp92.github.io/resume/](https://anandvp92.github.io/resume)  
 - 😜 Fun fact ** By day, I'm a Python developer crafting code; by night, a stand-up coder—my secret sauce? A dash of humor, making my code both functional and fun! 😄🐍 **
 
 <h3 align="left">Connect with me:</h3>
