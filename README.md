@@ -31,7 +31,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/meanandvp" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/246/931/png-clipart-twitter-logo-twitter-logo-icons-logos-emojis-tech-companies-thumbnail.png" alt="meanandvp" height="30" width="30" /></a>
-
 <a href="https://linkedin.com/in/anand-v-p-89a73320b" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="anand-v-p-89a73320b" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/21292176" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="21292176" height="30" width="30" /></a>
 <a href="https://instagram.com/spike_spiegel_00" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/2048px-Instagram.svg.png" alt="spike_spiegel_00" height="30" width="30" /></a>
