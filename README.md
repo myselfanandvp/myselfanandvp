@@ -65,7 +65,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=myselfanandvp&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" width="100%" />
+<img src="https://github.com/user-attachments/assets/24359122-225f-4843-9811-44d38f9e43cc" alt="Snake animation" width="100%" />
 
 ---
 
