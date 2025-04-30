@@ -42,7 +42,7 @@
   
 </div>
 
-## 🌐 Socials:
+## 🌐 Socials: <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width=10% />
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/anand9584) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anand-v-p-a7893b237?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bh929%2BPnMQBCGgvvFJTG%2BDw%3D%3D) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/mailanandvp/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/FrontMountain594/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/30410642/anand-v-p) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AnandVP323708) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@CodexByAnand) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@Anand-V-P) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mailanandvp@gmail.com) 
 
 # 💻 Tech Stack:
