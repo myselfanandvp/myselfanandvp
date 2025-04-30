@@ -50,10 +50,7 @@
 # 📊 GitHub Stats: <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width=10% />
 ![](https://github-readme-stats.vercel.app/api?username=myselfanandvp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=myselfanandvp&theme=tokyonight&hide_border=false)<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myselfanandvp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=myselfanandvp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies : <img  src ="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" width = 15%/>
 ![](https://github-profile-trophy.vercel.app/?username=myselfanandvp&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
