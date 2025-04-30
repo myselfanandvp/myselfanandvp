@@ -8,7 +8,7 @@
   <img alt="" width="40" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" />
   <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width=10% /> 
   
-![banner. ](https://github.com/user-attachments/assets/e473cbb8-7491-4c06-b589-3ad7b285ff7f)
+![banner. ](https://github.com/user-attachments/assets/776934eb-1e9d-4d4a-9361-afc49aebd0b2)
 
  <!--
   <span>Hi</span> 
