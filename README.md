@@ -54,13 +54,13 @@
 ## 🏆 GitHub Trophies : <img  src ="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" width = 10%/>
 ![](https://github-profile-trophy.vercel.app/?username=myselfanandvp&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="left">
-<img src ="" />
-  
-</div>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<div align="right">
+<img src ="https://github.com/user-attachments/assets/d7f4d52f-5c4b-4c53-a0e3-f47b64eefbdf" width=50% />
+  
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=myselfanandvp&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
