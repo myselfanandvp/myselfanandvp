@@ -17,7 +17,7 @@
 <h2 align="center">A Passionate  Developer From India!</h2>
 
 
-## 💫 About Me: <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width=10% />
+## 💫 About Me: <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width=10% />
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=anandvp92&label=Profile%20views&color=blue&style=plastic" alt="anandvp92" /> <br>
  <a href="https://twitter.com/meanandvp" target="blank"><img src="https://img.shields.io/twitter/follow/meanandvp?logo=twitter&style=plastic" alt="meanandvp" /></a> </p>
