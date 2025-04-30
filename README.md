@@ -30,8 +30,11 @@
 📧 How to reach me **__mailanandvp@gmail.com__**<br>
 🙂 Know about my experiences [https://myselfanandvp.github.io/resume/](https://myselfanandvp.github.io/resume/)  
 
+<div align="right">
+  
+<img src ="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width=30% />
+</div>
 
-<img src ="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width=30% align="right" />
 
 
   
