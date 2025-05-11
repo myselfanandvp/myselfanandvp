@@ -28,7 +28,7 @@
 💬 Ask me about Python, Django, REST APIs, and backend development  
 ⚡ Fun fact: I enjoy turning complex problems into simple, elegant code — preferably with some good music playing in the background 🎧<br>
 📧 How to reach me **__mailanandvp@gmail.com__**<br>
-🙂 Know about my experiences [https://myselfanandvp.github.io/resume/](https://myselfanandvp.github.io/resume/)  
+🙂 Know about me. Visit this [Officalwebsite](https://myselfanandvp.github.io/officialwebsite/)  
 
 
 
