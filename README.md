@@ -20,7 +20,7 @@
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=anandvp92&label=Profile%20views&color=blue&style=plastic" alt="anandvp92" /> <br>
  <a href="https://twitter.com/meanandvp" target="blank"><img src="https://img.shields.io/twitter/follow/meanandvp?logo=twitter&style=plastic" alt="meanandvp" /></a> <img src ="https://private-user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDYwMDgxMDIsIm5iZiI6MTc0NjAwNzgwMiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NjAtY2M0ZmU4OGMtN2Y3YS00MWQ4LWI0NDktMzRiN2ExNzhjMWM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDMwVDEwMTAwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA2MjQ4ZGIxMzFkZGNkN2QwMTIzMjc5MDA1Y2ExNWFkNzczYjU2ZWZhMmRlYjAyNGM4MTMzNGVhYzkzNjE0MjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.uNFKL0R5PBLJkygl-ufr0mYSyDMeoCOfe6LQB5A9APo" width=5% > </p>
----
+ 
 🔭 I’m currently working on full stack development with Django and MSSQL  
 👯 I’m looking to collaborate on web development projects and open-source contributions  
 🤝 I’m looking for help with learning the MERN stack and modern frontend frameworks  
