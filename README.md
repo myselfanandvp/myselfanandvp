@@ -26,8 +26,8 @@ I am a passionate software engineer focused on building clean, scalable, and use
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=transparent)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[myselfanandvp]&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[myselfanandvp]&layout=compact&theme=transparent)
 
 ---
 
