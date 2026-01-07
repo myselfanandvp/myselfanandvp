@@ -26,8 +26,7 @@ I am a passionate software engineer focused on building clean, scalable, and use
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=myselfanandvp&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myselfanandvp&layout=compact&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=myselfanandvp&theme=transparent)](https://git.io/streak-stats)
 
 ---
 
