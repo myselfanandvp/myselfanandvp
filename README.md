@@ -33,16 +33,6 @@ Full Stack Developer specializing in scalable backend systems and modern web app
 
 ---
 
-
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myselfanandvp&show_icons=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myselfanandvp&layout=compact&hide_progress=true)
-
-
----
-
 ## 📫 Let's Connect
 
 - **LinkedIn:** https://linkedin.com/in/myselfanandvp  
