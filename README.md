@@ -1,35 +1,46 @@
 # Hi, I'm Anand 👋
-**[Your Job Title / Specialization, e.g., Full-Stack Developer | Cloud Architect]**
 
-I am a passionate software engineer focused on building clean, scalable, and user-centric applications. I specialize in [Tech A], [Tech B], and [Tech C]. 
+**Full Stack Developer | Python Specialist | Linux & Systems Enthusiast**
+
+Full Stack Developer specializing in scalable backend systems and modern web applications. Experienced in designing high-performance APIs, data processing pipelines, and automation solutions, with a background transitioning from creative animation pipelines into software engineering through curiosity-driven problem solving.
 
 ---
 
-### 🛠 Tech Stack & Tools
+## 🛠 Tech Stack & Tools
 
 | Category | Tools |
-| :--- | :--- |
-| **Languages** | Python, TypeScript, Go |
-| **Frontend** | React, Next.js, Tailwind CSS |
-| **Backend** | Node.js, PostgreSQL, Redis |
-| **DevOps** | Docker, AWS, GitHub Actions |
+|--------|-------|
+| **Languages** | Python, JavaScript, Java, C |
+| **Frontend** | React, Bootstrap, Tailwind CSS |
+| **Backend** | Django, FastAPI, Flask, Node.js, Django REST Framework |
+| **DevOps & Databases** | Docker, Linux, PostgreSQL, MSSQL, SQLAlchemy |
 
 ---
 
-### 🚀 Key Projects
+## 🚀 Key Projects & Impact
 
-* **[Project Name]** - A high-performance [brief description]. Built with [Tech].
-* **[Project Name]** - [Brief description of the problem it solved].
-* **[Project Name]** - [Brief description].
+- **High-Traffic APIs**  
+  Designed and engineered RESTful APIs serving **10,000+ daily requests** using FastAPI and Django REST Framework.
+
+- **Full-Stack Web Applications**  
+  Designed and delivered scalable, production-grade applications using **Django and React**, with a focus on clean architecture and maintainability.
+
+- **Data Processing Pipelines**  
+  Built and optimized large-scale data pipelines using **Pandas and NumPy**, improving performance and data reliability.
+
+- **Process Automation**  
+  Developed automation solutions that reduced operational wait times by **25%**, increasing overall workflow efficiency.
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=myselfanandvp)](https://git.io/streak-stats)
 
 ---
 
-### 📫 Let's Connect
+## 📫 Let's Connect
 
-[LinkedIn](your-link) | [Portfolio](your-link) | [Twitter/X](your-link) | [Email](mailto:your-email@example.com)
+- **LinkedIn:** https://linkedin.com/in/myselfanandvp  
+- **GitHub:** https://github.com/myselfanandvp  
+- **Email:** mailanandvp@gmail.com
