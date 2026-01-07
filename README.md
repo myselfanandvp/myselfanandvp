@@ -33,11 +33,13 @@ Full Stack Developer specializing in scalable backend systems and modern web app
 
 ---
 
+
 ## 📊 GitHub Activity
 
-![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=myselfanandvp&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myselfanandvp&show_icons=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myselfanandvp&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myselfanandvp&layout=compact&hide_progress=true)
+
 
 ---
 
