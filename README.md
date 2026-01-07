@@ -33,9 +33,11 @@ Full Stack Developer specializing in scalable backend systems and modern web app
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=myselfanandvp)](https://git.io/streak-stats)
+![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=myselfanandvp&show_icons=true&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myselfanandvp&layout=compact)
 
 ---
 
@@ -44,3 +46,5 @@ Full Stack Developer specializing in scalable backend systems and modern web app
 - **LinkedIn:** https://linkedin.com/in/myselfanandvp  
 - **GitHub:** https://github.com/myselfanandvp  
 - **Email:** mailanandvp@gmail.com
+
+---
