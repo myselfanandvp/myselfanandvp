@@ -26,7 +26,7 @@ I am a passionate software engineer focused on building clean, scalable, and use
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=myselfanandvp&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=myselfanandvp)](https://git.io/streak-stats)
 
 ---
 
