@@ -36,8 +36,12 @@ bridging the gap between creative problem-solving and systems architecture.
 
 <p align="left">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myselfanandvp&show_icons=true&theme=transparent&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img  height="180em" src="https://nirzak-streak-stats.vercel.app/?user=myselfanandvp&&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=transparent"  />
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myselfanandvp&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=transparent"  />
+
+ 
 </p>
+
 
 ---
 
