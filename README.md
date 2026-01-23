@@ -16,7 +16,7 @@
 <a href="YOUR_DISCORD_LINK_HERE">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
-<a href="YOUR_GITLAB_URL_HERE">
+<a href="https://gitlab.com/myselfanandvp">
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </a>
 </p>
