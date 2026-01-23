@@ -47,7 +47,7 @@ bridging the gap between creative problem-solving and systems architecture.
 
 ### <samp>📫 Connect</samp>
 <samp>
-<a href="www.linkedin.com/in/myselfanandvp">LinkedIn</a> | 
+<a href="https://linkedin.com/in/myselfanandvp">LinkedIn</a> | 
 <a href="https://github.com/myselfanandvp">GitHub</a> | 
 <a href="mailto:mailanandvp@gmail.com">Email</a>
 </samp>
