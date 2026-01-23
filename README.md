@@ -1,42 +1,49 @@
-# Hi, I'm Anand 👋
 
-**Full Stack Developer | Python Specialist | Linux & Systems Enthusiast**
+### <samp>&gt; Hi there, I'm <a href="https://www.twitter.com/adi1090x" target="_blank">Anand V P</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-Full Stack Developer specializing in scalable backend systems and modern web applications. Experienced in designing high-performance APIs, data processing pipelines, and automation solutions, with a background transitioning from creative animation pipelines into software engineering through curiosity-driven problem solving.
 
----
+**<samp>Full Stack Developer | Python Specialist | Linux & Systems Enthusiast</samp>**
 
-## 🛠 Tech Stack & Tools
-
-| Category | Tools |
-|--------|-------|
-| **Languages** | Python, JavaScript, Java, C |
-| **Frontend** | React, Bootstrap, Tailwind CSS |
-| **Backend** | Django, FastAPI, Flask, Node.js, Django REST Framework |
-| **DevOps & Databases** | Docker, Linux, PostgreSQL, MSSQL, SQLAlchemy |
+<samp>
+I specialize in building scalable backend systems and modern web applications. 
+Experienced in designing high-performance APIs and automated data pipelines, 
+bridging the gap between creative problem-solving and systems architecture.
+</samp>
 
 ---
 
-## 🚀 Key Projects & Impact
-
-- **High-Traffic APIs**  
-  Designed and engineered RESTful APIs serving **10,000+ daily requests** using FastAPI and Django REST Framework.
-
-- **Full-Stack Web Applications**  
-  Designed and delivered scalable, production-grade applications using **Django and React**, with a focus on clean architecture and maintainability.
-
-- **Data Processing Pipelines**  
-  Built and optimized large-scale data pipelines using **Pandas and NumPy**, improving performance and data reliability.
-
-- **Process Automation**  
-  Developed automation solutions that reduced operational wait times by **25%**, increasing overall workflow efficiency.
+### <samp>🛠 Tech Stack</samp>
+<samp>
+- <b>Languages:</b> Python, JavaScript (ES6+), Java, C
+- <b>Backend:</b> Django, FastAPI, Flask, Node.js, DRF
+- <b>Frontend:</b> React.js, Tailwind CSS, Bootstrap
+- <b>Infrastructure:</b> Docker, Linux, PostgreSQL, SQLAlchemy
+</samp>
 
 ---
 
-## 📫 Let's Connect
-
-- **LinkedIn:** https://linkedin.com/in/myselfanandvp  
-- **GitHub:** https://github.com/myselfanandvp  
-- **Email:** mailanandvp@gmail.com
+### <samp>🚀 Impact</samp>
+<samp>
+• <b>10k+ Daily Requests:</b> Engineered high-traffic APIs using FastAPI/Django.<br>
+• <b>Scalable Web Apps:</b> Delivered production-ready apps with React/Django.<br>
+• <b>Data Efficiency:</b> Optimized pipelines with Pandas, ensuring high reliability.<br>
+• <b>Automation:</b> Reduced operational wait times by 25% via Python solutions.
+</samp>
 
 ---
+
+### <samp>📊 Analytics</samp>
+
+<p align="left">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myselfanandvp&show_icons=true&theme=transparent&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myselfanandvp&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=transparent"  />
+</p>
+
+---
+
+### <samp>📫 Connect</samp>
+<samp>
+<a href="https://linkedin.com/in/myselfanandvp">LinkedIn</a> | 
+<a href="https://github.com/myselfanandvp">GitHub</a> | 
+<a href="mailto:mailanandvp@gmail.com">Email</a>
+</samp>
