@@ -72,22 +72,22 @@ I specialize in building **scalable backend systems** and **modern web applicati
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/api-settings.png" width="60"/>
+<img src="https://github.com/user-attachments/assets/a18635ae-8804-4863-a022-412712b3ada9" width="60"/>
 <h3>10k+ Daily Requests</h3>
 <p>Engineered high-traffic APIs using FastAPI & Django with optimized performance</p>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/web.png" width="60"/>
+<img src="https://github.com/user-attachments/assets/85d2868f-f231-49f1-86dd-bd8cb8876673" width="60"/>
 <h3>Scalable Web Apps</h3>
 <p>Delivered production-ready applications with React & Django architecture</p>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/database.png" width="60"/>
+<img src="https://github.com/user-attachments/assets/b27448df-6f98-4fc2-9972-cc59aa9ed526" width="60"/>
 <h3>Data Efficiency</h3>
 <p>Optimized data pipelines with Pandas ensuring 99%+ reliability</p>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/database.png" width="60"/>
+<img src="https://github.com/user-attachments/assets/9be22639-ff0d-43f9-94e2-1bf1893261d1" width="60"/>
 <h3>Automation</h3>
 <p>Reduced operational wait times by 25% via Python automation solutions</p>
 </td>
