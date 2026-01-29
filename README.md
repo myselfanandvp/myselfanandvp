@@ -109,13 +109,13 @@ I specialize in building **scalable backend systems** and **modern web applicati
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myselfanandvp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myselfanandvp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" /> -->
   <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=myselfanandvp&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myselfanandvp&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-</p>
+<!-- <p align="center"> -->
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myselfanandvp&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" /> -->
+<!-- </p> -->
 
 ---
 
