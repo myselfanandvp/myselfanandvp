@@ -16,11 +16,7 @@
 
 ---
 
-```
-┌──────────────────────────────┐
-│  🖥️  whoami                    │
-└──────────────────────────────┘
-```
+```🖥️  whoami ```
 
 <table>
 <tr>
@@ -47,11 +43,7 @@
 
 ---
 
-```
-┌──────────────────────────────┐
-│  🛠️  cat tech_stack.yaml       │
-└──────────────────────────────┘
-```
+```🛠️  cat tech_stack.yaml```
 
 <div align="center">
 
@@ -85,11 +77,7 @@
 
 ---
 
-```
-┌──────────────────────────────┐
-│  📈  htop --activity          │
-└──────────────────────────────┘
-```
+```📈  htop --activity```
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=myselfanandvp&theme=dracula&bg_color=282A36&color=BD93F9&line=8BE9FD&point=FF79C6&hide_border=true&area=true&area_color=8BE9FD22" alt="activity graph" width="100%"/>
@@ -97,11 +85,7 @@
 
 ---
 
-```
-┌──────────────────────────────┐
-│  💼  // currently.running     │
-└──────────────────────────────┘
-```
+```💼  // currently.running```
 
 ```diff
 + Building scalable microservices architectures with Django + DRF
@@ -117,11 +101,7 @@
 
 <div align="center">
 
-```
-┌──────────────────────────────┐
-│  📫  connect --establish      │
-└──────────────────────────────┘
-```
+```📫  connect --establish```
 
 <a href="https://linkedin.com/in/myselfanandvp">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=282A36" alt="LinkedIn"/>
