@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- Animated Matrix-style header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0D1117,50:0D1117,100:161B22&text=Anand%20V%20P&fontColor=00FF41&fontSize=60&animation=fadeIn&stroke=00FF41&strokeWidth=2&desc=Full%20Stack%20Developer%20%7C%20Python%20Specialist%20%7C%20Linux%20Enthusiast&descSize=18&descAlignY=70&descColor=58A6FF" width="100%" alt="header banner"/>
+<!-- Animated header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:282A36,50:282A36,100:1E1F29&text=Anand%20V%20P&fontColor=BD93F9&fontSize=60&animation=fadeIn&stroke=BD93F9&strokeWidth=2&desc=Full%20Stack%20Developer%20%7C%20Python%20Specialist%20%7C%20Linux%20Enthusiast&descSize=18&descAlignY=70&descColor=8BE9FD" width="100%" alt="header banner"/>
 
 <!-- Typing animation -->
 <a href="https://github.com/myselfanandvp">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%3E%20Full%20Stack%20Developer;%3E%20Building%20clean%2C%20scalable%20web%20apps;%3E%20Always%20learning%2C%20always%20shipping%20%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=1000&color=8BE9FD&center=true&vCenter=true&width=700&lines=%3E%20Full%20Stack%20Developer;%3E%20Building%20clean%2C%20scalable%20web%20apps;%3E%20Always%20learning%2C%20always%20shipping%20%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <!-- Terminal badges -->
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&logo=linux&logoColor=00FF41&labelColor=0D1117" alt="status"/>
-<img src="https://img.shields.io/badge/ROLE-Full%20Stack%20Dev-BC8F8F?style=for-the-badge&logo=codeigniter&logoColor=BC8F8F&labelColor=0D1117" alt="role"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-50FA7B?style=for-the-badge&logo=linux&logoColor=50FA7B&labelColor=282A36" alt="status"/>
+<img src="https://img.shields.io/badge/ROLE-Full%20Stack%20Dev-FF79C6?style=for-the-badge&logo=codeigniter&logoColor=FF79C6&labelColor=282A36" alt="role"/>
 
 </div>
 
@@ -22,51 +22,28 @@
 └──────────────────────────────┘
 ```
 
-```python
-#!/usr/bin/env python3
-# ~/anand » python3 about_me.py
-# ----------------------------------------
-
-from dataclasses import dataclass
-from typing import List
-
-@dataclass
-class Developer:
-    name: str = "Anand V P"
-    role: str = "Full Stack Developer"
-    stack: List[str] = None
-    interests: List[str] = None
-    fun_fact: str = "Enjoys tinkering with Linux under the hood"
-
-    def __post_init__(self):
-        self.stack = ["Python", "Django", "React"]
-        self.interests = ["backend systems", "clean architecture", "open source"]
-
-    def say_hi(self) -> None:
-        print("Thanks for stopping by — let's build something solid.")
-
-if __name__ == "__main__":
-    Developer().say_hi()
-```
-
----
-
-<div align="center">
-
-```
-┌──────────────────────────────┐
-│  📊  system --monitor         │
-└──────────────────────────────┘
-```
-<img src="https://streak-stats.demolab.com?user=myselfanandvp&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=BC8F8F&currStreakLabel=00FF41&currStreakNum=58A6FF&sideNums=c9d1d9&sideLabels=8B949E&dates=6E7681" alt="GitHub streak" width="75%"/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myselfanandvp/myselfanandvp/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/myselfanandvp/myselfanandvp/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/myselfanandvp/myselfanandvp/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
+<table>
+<tr>
+<td width="140"><b>Name</b></td>
+<td>Anand V P</td>
+</tr>
+<tr>
+<td><b>Role</b></td>
+<td>Full Stack Developer</td>
+</tr>
+<tr>
+<td><b>Stack</b></td>
+<td>Python · Django · DRF · React</td>
+</tr>
+<tr>
+<td><b>Interests</b></td>
+<td>Backend systems · Clean architecture · Open source</td>
+</tr>
+<tr>
+<td><b>Fun fact</b></td>
+<td>Enjoys tinkering with Linux under the hood</td>
+</tr>
+</table>
 
 ---
 
@@ -97,12 +74,12 @@ if __name__ == "__main__":
 <br/><br/>
 
 <!-- Skill level badges -->
-<img src="https://img.shields.io/badge/Python-Expert-00FF41?style=flat-square&logo=python&logoColor=00FF41&labelColor=0D1117" alt="python"/>
-<img src="https://img.shields.io/badge/Django-Advanced-58A6FF?style=flat-square&logo=django&logoColor=58A6FF&labelColor=0D1117" alt="django"/>
-<img src="https://img.shields.io/badge/React-Advanced-58A6FF?style=flat-square&logo=react&logoColor=58A6FF&labelColor=0D1117" alt="react"/>
-<img src="https://img.shields.io/badge/DRF-Advanced-BC8F8F?style=flat-square&logo=django&logoColor=BC8F8F&labelColor=0D1117" alt="drf"/>
-<img src="https://img.shields.io/badge/FastAPI-Learning-FFB800?style=flat-square&logo=fastapi&logoColor=FFB800&labelColor=0D1117" alt="fastapi"/>
-<img src="https://img.shields.io/badge/Linux-Advanced-00FF41?style=flat-square&logo=linux&logoColor=00FF41&labelColor=0D1117" alt="linux"/>
+<img src="https://img.shields.io/badge/Python-Expert-BD93F9?style=flat-square&logo=python&logoColor=BD93F9&labelColor=282A36" alt="python"/>
+<img src="https://img.shields.io/badge/Django-Advanced-8BE9FD?style=flat-square&logo=django&logoColor=8BE9FD&labelColor=282A36" alt="django"/>
+<img src="https://img.shields.io/badge/React-Advanced-8BE9FD?style=flat-square&logo=react&logoColor=8BE9FD&labelColor=282A36" alt="react"/>
+<img src="https://img.shields.io/badge/DRF-Advanced-FF79C6?style=flat-square&logo=django&logoColor=FF79C6&labelColor=282A36" alt="drf"/>
+<img src="https://img.shields.io/badge/FastAPI-Learning-FFB86C?style=flat-square&logo=fastapi&logoColor=FFB86C&labelColor=282A36" alt="fastapi"/>
+<img src="https://img.shields.io/badge/Linux-Advanced-50FA7B?style=flat-square&logo=linux&logoColor=50FA7B&labelColor=282A36" alt="linux"/>
 
 </div>
 
@@ -115,7 +92,7 @@ if __name__ == "__main__":
 ```
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=myselfanandvp&theme=chartreuse-dark&bg_color=0D1117&color=00FF41&line=58A6FF&point=BC8F8F&hide_border=true&area=true&area_color=58A6FF22" alt="activity graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=myselfanandvp&theme=dracula&bg_color=282A36&color=BD93F9&line=8BE9FD&point=FF79C6&hide_border=true&area=true&area_color=8BE9FD22" alt="activity graph" width="100%"/>
 </div>
 
 ---
@@ -147,27 +124,27 @@ if __name__ == "__main__":
 ```
 
 <a href="https://linkedin.com/in/myselfanandvp">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=282A36" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/myselfanandvp">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=282A36" alt="GitHub"/>
 </a>
 <a href="https://www.twitter.com/myselfanandvp">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" alt="Twitter"/>
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=282A36" alt="Twitter"/>
 </a>
 <a href="mailto:mailanandvp@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=282A36" alt="Gmail"/>
 </a>
 
 <br/><br/>
 
 <!-- Live metrics -->
-<img src="https://img.shields.io/github/followers/myselfanandvp?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=0D1117&color=00FF41" alt="followers"/>
-<img src="https://komarev.com/ghpvc/?username=myselfanandvp&label=Profile%20Views&style=for-the-badge&color=58A6FF&labelColor=0D1117" alt="profile views"/>
-<img src="https://img.shields.io/github/stars/myselfanandvp?style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=0D1117&color=BC8F8F" alt="stars"/>
+<img src="https://img.shields.io/github/followers/myselfanandvp?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=282A36&color=BD93F9" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=myselfanandvp&label=Profile%20Views&style=for-the-badge&color=8BE9FD&labelColor=282A36" alt="profile views"/>
+<img src="https://img.shields.io/github/stars/myselfanandvp?style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=282A36&color=FF79C6" alt="stars"/>
 
 <!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:0D1117,100:161B22&height=120&section=footer&animation=twinkling" width="100%" alt="footer wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD93F9,50:282A36,100:1E1F29&height=120&section=footer&animation=twinkling" width="100%" alt="footer wave"/>
 
 </div>
 
