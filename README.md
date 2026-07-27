@@ -99,6 +99,27 @@
 
 ---
 
+
+
+
+---
+ 
+```🌐  curl portfolio```
+ 
+<div align="center">
+<a href="https://portfolio-nu-five-60.vercel.app" target="_blank">
+  <img src="https://api.microlink.io/?url=https%3A%2F%2Fportfolio-nu-five-60.vercel.app%2F%23%2F&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark" alt="Portfolio preview — click to open" width="90%"/>
+</a>
+  <br/>
+<sub>👆 Click the preview to open the live site</sub>
+ 
+</div>
+
+
+
+
+---
+
 <div align="center">
 
 ```📫  connect --establish```
