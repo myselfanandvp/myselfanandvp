@@ -1,25 +1,26 @@
 <div align="center">
 
-
-
 <!-- Animated Matrix-style header -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0D1117,50:0D1117,100:161B22&text=Anand%20V%20P&fontColor=00FF41&fontSize=60&animation=fadeIn&stroke=00FF41&strokeWidth=2&desc=Full%20Stack%20Developer%20%7C%20Python%20Specialist%20%7C%20Linux%20Enthusiast&descSize=18&descAlignY=70&descColor=58A6FF" width="100%" alt="header banner"/>
 
 <!-- Typing animation -->
 <a href="https://github.com/myselfanandvp">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%3E%20Initializing%20developer...;%3E%20Loading%20stack%3A%20Django%20%2B%20DRF%20%2B%20React;%3E%20Importing%20FastAPI%20%26%20Clean%20Architecture;%3E%20Running%20on%20Linux%20%2F%20Wayland%20%2F%20Niri;%3E%20Status%3A%20Ready%20to%20ship%20code%20%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%3E%20Full%20Stack%20Developer;%3E%20Building%20clean%2C%20scalable%20web%20apps;%3E%20Always%20learning%2C%20always%20shipping%20%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <!-- Terminal badges -->
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&logo=linux&logoColor=00FF41&labelColor=0D1117" alt="status"/>
-
 <img src="https://img.shields.io/badge/ROLE-Full%20Stack%20Dev-BC8F8F?style=for-the-badge&logo=codeigniter&logoColor=BC8F8F&labelColor=0D1117" alt="role"/>
 
 </div>
 
 ---
 
-### 🖥️ `whoami`
+```
+┌──────────────────────────────┐
+│  🖥️  whoami                    │
+└──────────────────────────────┘
+```
 
 ```python
 #!/usr/bin/env python3
@@ -33,33 +34,30 @@ from typing import List
 class Developer:
     name: str = "Anand V P"
     role: str = "Full Stack Developer"
-    location: str = "India"
-    experience: str = "~2 years @ Standout IT Solutions Pvt. Ltd."
     stack: List[str] = None
-    learning: List[str] = None
-    hobby: str = "Linux internals, Wayland compositors, Niri"
-    currently: str = "Full Stack Program (React.js + Django) @ Brototype"
+    interests: List[str] = None
+    fun_fact: str = "Enjoys tinkering with Linux under the hood"
 
     def __post_init__(self):
-        self.stack = ["Python", "Django", "DRF", "React", "MS SQL Server"]
-        self.learning = ["FastAPI", "Clean Architecture"]
+        self.stack = ["Python", "Django", "React"]
+        self.interests = ["backend systems", "clean architecture", "open source"]
 
     def say_hi(self) -> None:
         print("Thanks for stopping by — let's build something solid.")
-        print(">>> Ready to collaborate on backend / full-stack projects")
 
 if __name__ == "__main__":
-    dev = Developer()
-    dev.say_hi()
+    Developer().say_hi()
 ```
 
 ---
 
 <div align="center">
 
-### 📊 `system --monitor`
-
-
+```
+┌──────────────────────────────┐
+│  📊  system --monitor         │
+└──────────────────────────────┘
+```
 <img src="https://streak-stats.demolab.com?user=myselfanandvp&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=BC8F8F&currStreakLabel=00FF41&currStreakNum=58A6FF&sideNums=c9d1d9&sideLabels=8B949E&dates=6E7681" alt="GitHub streak" width="75%"/>
 
 <picture>
@@ -72,7 +70,11 @@ if __name__ == "__main__":
 
 ---
 
-### 🛠️ `cat tech_stack.yaml`
+```
+┌──────────────────────────────┐
+│  🛠️  cat tech_stack.yaml       │
+└──────────────────────────────┘
+```
 
 <div align="center">
 
@@ -106,7 +108,11 @@ if __name__ == "__main__":
 
 ---
 
-### 📈 `htop --activity`
+```
+┌──────────────────────────────┐
+│  📈  htop --activity          │
+└──────────────────────────────┘
+```
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=myselfanandvp&theme=chartreuse-dark&bg_color=0D1117&color=00FF41&line=58A6FF&point=BC8F8F&hide_border=true&area=true&area_color=58A6FF22" alt="activity graph" width="100%"/>
@@ -114,7 +120,11 @@ if __name__ == "__main__":
 
 ---
 
-### 💼 `// currently.running`
+```
+┌──────────────────────────────┐
+│  💼  // currently.running     │
+└──────────────────────────────┘
+```
 
 ```diff
 + Building scalable microservices architectures with Django + DRF
@@ -130,7 +140,11 @@ if __name__ == "__main__":
 
 <div align="center">
 
-### 📫 `connect --establish`
+```
+┌──────────────────────────────┐
+│  📫  connect --establish      │
+└──────────────────────────────┘
+```
 
 <a href="https://linkedin.com/in/myselfanandvp">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
