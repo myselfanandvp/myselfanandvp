@@ -16,93 +16,7 @@
 
 ---
 
-```🖥️  whoami ```
-
-<table>
-<tr>
-<td width="140"><b>Name</b></td>
-<td>Anand V P</td>
-</tr>
-<tr>
-<td><b>Role</b></td>
-<td>Full Stack Developer</td>
-</tr>
-<tr>
-<td><b>Stack</b></td>
-<td>Python · Django · DRF · React</td>
-</tr>
-<tr>
-<td><b>Interests</b></td>
-<td>Backend systems · Clean architecture · Open source</td>
-</tr>
-<tr>
-<td><b>Fun fact</b></td>
-<td>Enjoys tinkering with Linux under the hood</td>
-</tr>
-</table>
-
----
-<br/><br/>
-
-<!-- Skill level badges -->
-<img src="https://img.shields.io/badge/Python-Expert-BD93F9?style=flat-square&logo=python&logoColor=BD93F9&labelColor=282A36" alt="python"/>
-<img src="https://img.shields.io/badge/Django-Advanced-8BE9FD?style=flat-square&logo=django&logoColor=8BE9FD&labelColor=282A36" alt="django"/>
-<img src="https://img.shields.io/badge/React-Advanced-8BE9FD?style=flat-square&logo=react&logoColor=8BE9FD&labelColor=282A36" alt="react"/>
-<img src="https://img.shields.io/badge/DRF-Advanced-FF79C6?style=flat-square&logo=django&logoColor=FF79C6&labelColor=282A36" alt="drf"/>
-<img src="https://img.shields.io/badge/FastAPI-Learning-FFB86C?style=flat-square&logo=fastapi&logoColor=FFB86C&labelColor=282A36" alt="fastapi"/>
-<img src="https://img.shields.io/badge/Linux-Advanced-50FA7B?style=flat-square&logo=linux&logoColor=50FA7B&labelColor=282A36" alt="linux"/>
-
-</div>
-
----
-
-```📈  htop --activity```
-
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=myselfanandvp&theme=dracula&bg_color=282A36&color=BD93F9&line=8BE9FD&point=FF79C6&hide_border=true&area=true&area_color=8BE9FD22" alt="activity graph" width="100%"/>
-</div>
-
----
-
-```💼  // currently.running```
-
-```diff
-+ Building scalable microservices architectures with Django + DRF
-+ Exploring FastAPI with Clean Architecture (Domain-Driven Design)
-+ Deep diving into Linux internals & Wayland compositor development
-+ Contributing to open-source Python ecosystems
-! Ask me about: Python, Django, FastAPI, React, MS SQL Server, or Linux
-! Open to collaborating on backend / full-stack projects
-- Not currently looking for on-site roles
-```
-
----
-
-
-
-
----
- 
-```🌐  curl portfolio```
- 
-<div align="center">
-<a href="https://portfolio-nu-five-60.vercel.app" target="_blank">
-  <img src="https://api.microlink.io/?url=https%3A%2F%2Fportfolio-nu-five-60.vercel.app%2F%23%2F&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark" alt="Portfolio preview — click to open" width="90%"/>
-</a>
-  <br/>
-<sub>👆 Click the preview to open the live site</sub>
- 
-</div>
-
-
-
-
----
-
-<div align="center">
-
-```📫  connect --establish```
-
 <a href="https://linkedin.com/in/myselfanandvp">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=282A36" alt="LinkedIn"/>
 </a>
@@ -118,10 +32,7 @@
 
 <br/><br/>
 
-<!-- Live metrics -->
-<img src="https://img.shields.io/github/followers/myselfanandvp?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=282A36&color=BD93F9" alt="followers"/>
-<img src="https://komarev.com/ghpvc/?username=myselfanandvp&label=Profile%20Views&style=for-the-badge&color=8BE9FD&labelColor=282A36" alt="profile views"/>
-<img src="https://img.shields.io/github/stars/myselfanandvp?style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=282A36&color=FF79C6" alt="stars"/>
+
 
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD93F9,50:282A36,100:1E1F29&height=120&section=footer&animation=twinkling" width="100%" alt="footer wave"/>
