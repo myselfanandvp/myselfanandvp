@@ -42,27 +42,6 @@
 </table>
 
 ---
-
-```🛠️  cat tech_stack.yaml```
-
-<div align="center">
-
-**Languages / Core**
-<br/>
-<img src="https://skillicons.dev/icons?i=py,js,java,c&theme=dark" alt="languages" />
-
-**Backend / Frameworks**
-<br/>
-<img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs&theme=dark" alt="backend" />
-
-**Frontend / UI**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark" alt="frontend" />
-
-**Infra / DevOps / Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,linux,postgres,git,vscode&theme=dark" alt="tools" />
-
 <br/><br/>
 
 <!-- Skill level badges -->
